@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "canvas-sketch": "^0.7.6"
+  },
+  "dependencies": {
+    "canvas-sketch-util": "^1.10.0"
   }
 }
